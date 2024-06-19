@@ -1,4 +1,4 @@
-def hello(ngee=""):
+def hello(ngee):
 
     if ngee:
         return "Hello World USER!"
