@@ -20,3 +20,4 @@ jobs:
 
       - name: Show hidden files
         run: |
+          ls
